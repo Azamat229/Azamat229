@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-**Azamat229/Azamat229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋, my name is Azamat
 #### Experienced Backend developer with 2 years of experience.
