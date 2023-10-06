@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azamat</h1>
 <h3 align="center">I’m experienced programmer with 2.5 years of commercial experience, proficient in .NET Backend and Android development</h3>
 
-- 🔭 I’m currently working on [@AdvMeds]([url](https://www.advmeds.com/en/home-ent))
+- 🔭 I’m currently working on [AdvMeds](https://www.advmeds.com/en/home-ent)
 
 - 📫 How to reach me **azamat.net.dev@gmail.com**
 
