@@ -1,13 +1,37 @@
-
+![git](https://github.com/Azamat229/Azamat229/assets/51823189/db2e6b10-f656-44a8-a27a-27db29ed038e)
 ### Hi there 👋, my name is Azamat
-#### Experienced Backend developer with 2 years of experience.
-![Experienced Backend developer with 2 years of experience.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I’m experienced programmer with 2.5 years of commercial experience, proficient in .NET Backend and Android development
 
-#As a Backend Developer at Advmeds, I develop and maintain cloud medical information systems that provide cross-platform and cross-system solutions for healthcare services. I use C#, SQL, and #Entity Framework Core to create reliable, scalable, and secure back-end applications that integrate with various front-end platforms and databases. 
+Currently working at @Advdems
+How to contact me: just sent email to azamat.net.dev@gmail.com
+Know about my experiences https://www.linkedin.com/in/azamat229/
+My education: Bachelor degrees in information technology
 
-#I have over 1 years of experience in back-end development, working in different types of companies, such as outstaff, and product-oriented. I have also led a team of three developers at my #previous job, where I was responsible for decision-making, customer communication. I have a Bachelor's degree in Information Technology from IUCA, where I learned the fundamentals of #software engineering, data structures, algorithms, and databases. I am passionate about creating innovative and impactful digital solutions for the medical and healthcare industry, and I am #always eager to learn new skills and technologies.
+#### Connect with me:
+![Uploadi<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 32 32"><path d="M31.396 14.575L17.425.604a2.06 2.06 0 0 0-2.914 0l-2.9 2.9 3.68 3.68c.856-.3 1.836-.095 2.518.587a2.45 2.45 0 0 1 .581 2.533l3.547 3.547c.858-.296 1.848-.105 2.533.582a2.45 2.45 0 1 1-3.469 3.468c-.72-.72-.898-1.78-.534-2.667l-3.308-3.308v8.705a2.5 2.5 0 0 1 .65.464 2.45 2.45 0 1 1-3.468 3.468 2.45 2.45 0 0 1 0-3.468c.237-.236.5-.415.803-.535v-8.786c-.292-.12-.566-.297-.803-.535a2.45 2.45 0 0 1-.528-2.681l-3.63-3.628-9.58 9.57a2.06 2.06 0 0 0 0 2.915l13.972 13.97a2.06 2.06 0 0 0 2.914 0L31.396 17.5a2.06 2.06 0 0 0 0-2.915" fill="#f03c2e"/></svg>ng git.svg…]()
+
+![Leet](https://github.com/Azamat229/Azamat229/assets/51823189/c3025f2b-7ec1-46c8-8781-b20a4abc9bdd)<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="111px" viewBox="0 0 94 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>1_black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="branding_-resource" transform="translate(-2093.000000, -290.000000)">
+            <g id="1_black" transform="translate(2093.000000, 290.000000)">
+                <path d="M67.5068339,83.0664138 C70.0005384,80.5763786 74.0371402,80.5828822 76.5228362,83.0809398 C79.0085322,85.5789975 79.00204,89.6226456 76.5083355,92.1126808 L65.4351451,103.169577 C55.2192332,113.370744 38.5604663,113.518673 28.1722578,103.513204 C28.112217,103.455678 23.486583,98.9201326 8.22702585,83.9570195 C-1.92478479,74.0028895 -2.93614945,58.0748736 6.61697549,47.8463644 L24.4286944,28.7745461 C33.9100043,18.6218594 51.3874487,17.5122246 62.2279907,26.2789232 L78.4052912,39.3620235 C81.1448956,41.5776292 81.5728103,45.5984975 79.3610655,48.3428842 C77.1493207,51.0872709 73.1354592,51.5159327 70.3958548,49.300327 L54.2186634,36.2173149 C48.5492813,31.6325105 38.631911,32.2621597 33.7398535,37.5006265 L15.9279056,56.5726899 C11.2772073,61.552182 11.7865613,69.5740156 17.1461283,74.8292186 C28.3515339,85.8169393 36.9874071,94.2846214 36.9973988,94.294225 C42.3981571,99.4959838 51.130862,99.418438 56.43358,94.1233737 L67.5068339,83.0664138 Z" id="path_3" fill="#FFA116" fill-rule="nonzero"></path>
+                <path d="M40.6069914,72.0014117 C37.086019,72.0014117 34.2317068,69.142117 34.2317068,65.6149982 C34.2317068,62.0878794 37.086019,59.2285847 40.6069914,59.2285847 L87.6247154,59.2285847 C91.1456879,59.2285847 94,62.0878794 94,65.6149982 C94,69.142117 91.1456879,72.0014117 87.6247154,72.0014117 L40.6069914,72.0014117 Z" id="path_2" fill="#B3B3B3"></path>
+                <path d="M49.4124315,2.02335002 C51.8178981,-0.552320454 55.852269,-0.686893945 58.4234511,1.72277172 C60.9946333,4.13243738 61.1289722,8.17385083 58.7235056,10.7495213 L15.9282277,56.5728697 C11.2773659,61.551984 11.7867168,69.5737689 17.1459309,74.8291832 L36.9094236,94.2091099 C39.4255514,96.6764051 39.4686234,100.719828 37.0056277,103.240348 C34.5426319,105.760868 30.5062548,105.804016 27.990127,103.33672 L8.22654289,83.9567041 C-1.92467414,74.0021005 -2.93603527,58.0741402 6.61751533,47.846311 L49.4124315,2.02335002 Z" id="path_1" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
 
 
+
+#### Languages:
+#### .NET stack
+#### Android stack
+#### Tools
 📫 How to reach me azamat.net.dev@gmail.com
 
 📄 Know about my experiences https://www.linkedin.com/in/azamat229
